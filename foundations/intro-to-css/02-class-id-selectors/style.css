@@ -7,3 +7,7 @@
   color: #0202ff;
   font-size: 36px;
 }
+
+.odd-numbered.diff-size {
+  font-size: 24px;
+}
